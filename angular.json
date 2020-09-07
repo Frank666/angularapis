@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fideoapis"
+    }
+  },
+  "defaultProject": "fideoapis",
+  "cli": {
+    "analytics": false
+  }
 }
